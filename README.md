@@ -1,7 +1,7 @@
 # Student Result System
 This is a student result management system application to help
 the admin store various data such as course result declaration,
-student details and to help students to check thier own result.
+student details and to help students to check their own result.
 
 ## Features of Student Result System
 Add student information
